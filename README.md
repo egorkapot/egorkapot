@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+</td></tr> </table>
+
+<details>
+
 <summary>📈 Stats</summary>
 
 <br>
