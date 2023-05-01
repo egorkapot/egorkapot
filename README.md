@@ -1,6 +1,3 @@
-<p align="center">
-<img src="/../main/images/three_monitors.png" width="80%"></p>
-
 ### Hi there 👋
 
 Egor, Data Engineer at Innowise Group
