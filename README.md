@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-Egor, Data Engineer at Innowise Group
-
-# 📈 My Stats
-
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egorkapot&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egorkapot&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egorkapot&theme=dracula)
-
-
 <br>
 Currently Coding & Listening to:
 
